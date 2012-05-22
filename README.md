@@ -6,6 +6,27 @@ About
 
 Little test run with a dummy project to commit to github.
 
+Bug tracker
+-----------
+
+Have a bug? Please create an issue here on GitHub!
+
+https://github.com/myname/bootstrap/issues
+
+
+
+Twitter account
+---------------
+
+Keep up to date on announcements and more by following Bootstrap on Twitter, [@myname](http://twitter.com/myname).
+
+
+
+Blog
+----
+
+Read more detailed announcements, discussions, and more on [The Official Blog](http://mysite.com).
+
 Copyright and license
 ----------
 
